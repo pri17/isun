@@ -1,6 +1,9 @@
 package com.example.myisun;
 
 import java.util.HashMap;
+
+import com.example.test.R;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.text.Html;

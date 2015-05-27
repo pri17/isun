@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.example.myisun.json.*;
+import com.example.test.R;
 
 import android.app.Activity;
 import android.os.Bundle;

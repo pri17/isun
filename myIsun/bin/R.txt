@@ -344,8 +344,14 @@ int drawable abc_textfield_default_mtrl_alpha 0x7f020033
 int drawable abc_textfield_search_activated_mtrl_alpha 0x7f020034
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f020035
 int drawable abc_textfield_search_material 0x7f020036
-int drawable ic_delete 0x7f020037
-int drawable ic_launcher 0x7f020038
+int drawable ic_action_about 0x7f020037
+int drawable ic_action_discard 0x7f020038
+int drawable ic_action_favorite 0x7f020039
+int drawable ic_action_good 0x7f02003a
+int drawable ic_action_important 0x7f02003b
+int drawable ic_action_share 0x7f02003c
+int drawable ic_delete 0x7f02003d
+int drawable ic_launcher 0x7f02003e
 int id Label1 0x7f090050
 int id Label2 0x7f090052
 int id Label3 0x7f090054
@@ -363,7 +369,7 @@ int id action_menu_presenter 0x7f090006
 int id action_mode_bar 0x7f09002e
 int id action_mode_bar_stub 0x7f09002d
 int id action_mode_close_button 0x7f090020
-int id action_settings 0x7f09005a
+int id action_settings 0x7f09005e
 int id activity_chooser_view_content 0x7f090021
 int id agRis 0x7f090058
 int id always 0x7f090014
@@ -371,6 +377,8 @@ int id beginning 0x7f09001b
 int id btnForget 0x7f09004e
 int id btnLogin 0x7f090043
 int id btnLogout 0x7f09004a
+int id button1 0x7f09005a
+int id button2 0x7f09005b
 int id cellPhone 0x7f090055
 int id checkBox1 0x7f090044
 int id checkBox2 0x7f090045
@@ -394,6 +402,7 @@ int id homeAsUp 0x7f09000e
 int id icon 0x7f090026
 int id ifRoom 0x7f090016
 int id image 0x7f090023
+int id iv_icon 0x7f09005c
 int id label1 0x7f09003f
 int id label2 0x7f090041
 int id lblEmail 0x7f090049
@@ -431,6 +440,7 @@ int id split_action_bar 0x7f090004
 int id submit_area 0x7f09003c
 int id tabMode 0x7f09000c
 int id title 0x7f090027
+int id tv_name 0x7f09005d
 int id txtPassword 0x7f090042
 int id txtUsername 0x7f090040
 int id up 0x7f090001
@@ -470,6 +480,9 @@ int layout news_list 0x7f03001a
 int layout register 0x7f03001b
 int layout success_sent 0x7f03001c
 int layout support_simple_spinner_dropdown_item 0x7f03001d
+int layout test 0x7f03001e
+int layout test1 0x7f03001f
+int layout test2 0x7f030020
 int menu main 0x7f0c0000
 int string abc_action_bar_home_description 0x7f0a0001
 int string abc_action_bar_home_description_format 0x7f0a0005

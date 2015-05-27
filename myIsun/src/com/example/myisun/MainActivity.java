@@ -5,6 +5,8 @@ import java.net.URL;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import com.example.test.R;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.AsyncTask;
